@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SopeDapo
-- 👀 I’m interested in Blockchain, Web Application using PHP and it framework: laravel, Codeigniter
+- 👀 I’m interested in Blockchain, Web Application using PHP and it framework: laravel, Codeigniter and Mobile App
 - 🌱 I’m currently learning Blockchain Technology
 - 💞️ I’m looking to collaborate on Blockchain for Finance, and FinTech Project
 - 📫 How to reach me adeyefaoladapo@gmail.com or +2348160413494 through whatsapp/telegram
