@@ -89,7 +89,7 @@ To accelerate Africa’s transition into a **digitally intelligent and transpare
 - 💼 [LinkedIn](https://linkedin.com/in/sopdap)  
 - 🧵 [X (Twitter)](https://x.com/OladapoAA)  
 - 💻 [GitHub](https://github.com/SopeDapo)  
-- 📧 adesopeoladapo@gmail.com  
+- 📧 adeyefaoladapo@gmail.com  
 
 ---
 
